@@ -126,7 +126,7 @@ broadcast - to broadcast a message to all Eva Maria users
 
 ## Credit 💞
 
-* [![TEAM EVA-MARIA](https://img.shields.io/static/v1?label=TEAM&message=EVA-MARIA&color=yellow)](https://t.me/TeamEvamaria)
+* [![TEAM EVA-MARIA](https://img.shields.io/static)](https://t.me/TeamEvamaria)
 
 * [![BASE REPO](https://img.shields.io/static/v1?label=BASE&message=REPO&color=green)](https://t.me/TeamEvamaria)
 
